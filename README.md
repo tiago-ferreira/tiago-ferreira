@@ -4,7 +4,7 @@
 
 
 My name is Tiago Daniel Ferreira. I work as a Developer at Zup Innovation.
-This is my personal ![page](https://tiago-ferreira.github.io/)
+This is my personal <a href="https://tiago-ferreira.github.io/">page.</a>
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=tiago-ferreira&repo=tiago-ferreira&countColorcountColor)
 
